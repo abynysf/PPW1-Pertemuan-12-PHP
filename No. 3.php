@@ -3,16 +3,16 @@
 $namaDepan = "Abyan";
 
 $listKota = [
-    "Jambi",
-    "Riau",
     "Lampung",
+    "Riau",
+    "Jambi",
     "Bengkulu",
     "Makassar",
-    "Papua",
-    "Samarinda",
-    "Gorontalo",
-    "Nusa Tenggara Barat"
     "Kendari",
+    "Gorontalo",
+    "Samarinda",
+    "Papua",
+    "Nusa Tenggara Barat"
 ];
 
 $namaArray = str_split($namaDepan);
